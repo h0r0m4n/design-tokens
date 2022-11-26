@@ -1,0 +1,16 @@
+{
+  "border-radius": {
+    "default": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "large": {
+      "value": "{border-radius.default} * 2",
+      "type": "borderRadius"
+    },
+    "circle": {
+      "value": "50%",
+      "type": "borderRadius"
+    }
+  }
+}

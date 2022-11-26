@@ -1,0 +1,34 @@
+{
+    "source": ["tokens/**/*.json"],
+    "platforms": {
+      "css": {
+        "prefix": "spot",
+        "transformGroup": "css",
+        "buildPath": "css/",
+        "files": [
+          {
+            "format": "css/variables",
+            "destination": "variables.css",
+            "options": {
+              "outputReferences": true
+            }
+          }
+        ]
+      },
+      "scss": {
+        "prefix": "spot",
+        "transformGroup": "scss",
+        "buildPath": "css/",
+        "files": [
+          {
+            "format": "scss/variables",
+            "destination": "_variables.scss",
+            "options": {
+              "outputReferences": true
+            }
+          }
+        ]
+      }
+    }
+  }
+  

@@ -1,0 +1,22 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "description": "Experiment on how to connect Figma Tokens plugin and Style Dictionary",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h0r0m4n/design-tokens.git"
+  },
+  "author": "Roman Horokhovatskyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h0r0m4n/design-tokens/issues"
+  },
+  "homepage": "https://github.com/h0r0m4n/design-tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.1"
+  }
+}
