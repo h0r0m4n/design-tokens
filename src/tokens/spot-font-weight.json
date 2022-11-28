@@ -1,0 +1,16 @@
+{
+    "font-weight": {
+        "body-regular": {
+            "value": "400",
+            "type": "fontWeights"
+        },
+        "body-bold": {
+            "value": "700",
+            "type": "fontWeights"
+        },
+        "heading": {
+            "value": "700",
+            "type": "fontWeights"
+        }
+    }
+}

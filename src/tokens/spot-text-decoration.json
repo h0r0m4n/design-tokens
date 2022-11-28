@@ -1,0 +1,12 @@
+{
+  "text-decoration": {
+    "link": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "link-hover": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  }
+}

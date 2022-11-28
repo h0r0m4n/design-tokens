@@ -1,5 +1,5 @@
 {
-    "source": ["src/tokens/**/*.json"],
+    "source": ["src/tokens/*.json"],
     "platforms": {
       "scss": {
         "prefix": "spot",
@@ -17,4 +17,3 @@
       }
     }
   }
-  
